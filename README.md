@@ -29,5 +29,11 @@ As I said before, you do not really need a language to *publish* a repo. However
 - PHP
 
 ## Recommended Resources:
+- https://commonmark.org/help/tutorial/index.html \
+This one is not specifically about web development, but is a damn good site to help one with Markdown that I discovered and used last year to help myself
+- https://www.freecodecamp.org/learn \
+I have not used this one, but it looks like a great resource to learn (free), and one can even earn certifications on it
+- https://www.codecademy.com/ \
+I used this a couple years ago to teach myself HTML, CSS, and a little bit of JavaScipt for an internship I had
 
 ## Contributors:
