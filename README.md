@@ -11,13 +11,13 @@ This repo will be used for, in my opinion, mostly practice with markdown and Git
 There are several tools that you might need to publish a repo with Github Pages. I will say that I do not think you necessarily need any languages due to its simplicity, but, if one wanted, one could probably use different languages to increase the ability of the website.
 
 ### Tools:
-- Github
+- Github\
 This one is obvious, but it is still needed
 - A Git tool to communicate local or cloud changes to the other. Possible options are listed below:
     - Github Desktop: can be very simple to use, has a specific button on Github repos, and has a GUI (download at https://desktop.github.com/)
     - TortoiseGit: works with the Windows file manager to work many Git actions on the files and folders (download at https://tortoisegit.org/)
     - Git Bash: works with Github, but is set up mostly like the command line (download WITH https://github.com/git-for-windows/git/releases/download/v2.13.3.windows.1/Git-2.13.3-64-bit.exe)
-- A web browser
+- A web browser\
 Take your pick, but you need one to access the page you make
 
 ### Languages:
