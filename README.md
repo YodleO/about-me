@@ -40,5 +40,5 @@ I used this a couple years ago to teach myself HTML, CSS, and a little bit of Ja
 ME! Kaleb Odle!\
 Degree Programs: Data Science: Business, Data Science: Computer Science\
 Favorite Image:\
-![Hosted image] (https://magazine.mst.edu/files/2012/10/Eloe_Nathan.jpg) /
+![Hosted image](https://magazine.mst.edu/files/2012/10/Eloe_Nathan.jpg "Nathan friggin' Eloe") /
 Can you say, "Possible brownie points?"
