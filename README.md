@@ -37,3 +37,8 @@ I have not used this one, but it looks like a great resource to learn (free), an
 I used this a couple years ago to teach myself HTML, CSS, and a little bit of JavaScipt for an internship I had
 
 ## Contributors:
+ME! Kaleb Odle!\
+Degree Programs: Data Science: Business, Data Science: Computer Science\
+Favorite Image:\
+![Hosted image] (https://magazine.mst.edu/files/2012/10/Eloe_Nathan.jpg) /
+Can you say, "Possible brownie points?"
